@@ -1,6 +1,4 @@
 I am master
 Login
 Payment
-google Pay
-phone pay
 
