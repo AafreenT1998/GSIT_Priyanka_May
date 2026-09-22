@@ -1,3 +1,4 @@
 I am master
 Payment
 google Pay
+phone pay
